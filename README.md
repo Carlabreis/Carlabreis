@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <h1 align="center">✨ Hi, I'm Carla Reis ✨</h1>
 <h3 align="center">A creative and detail-oriented software developer with a deep interest in AI.</h3>
 <br>
-<p align="left">I write code! Before that, I was a bartender working with the most unneficient POS systems. I put it upon myself to learn to code, and then I started building responsive and accessible web applications. I love solving problems and even more to find answers. I am deeply interested in AI and machine learning, augmented reality, and inclusion.
-When I'm not working, you can find me watching movies, solving CodeWars, taking walks on the beach, or trying new arts & crafts.</p>
+<p align="left">I write code! Before that, I was a bartender working with the most inefficient POS systems. I put it upon myself to learn to code, and then I started building responsive and accessible web applications. I love solving problems and even more finding answers. I am deeply interested in AI and machine learning, augmented reality, and inclusion.
+When I'm not working, you can find me solving CodeWars, taking walks on the beach, crocheting, macrameing, or painting.</p>
 
 - 🔭 I’m currently working on my **100 hours project** and a **client's website**
 
