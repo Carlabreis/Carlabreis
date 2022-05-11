@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **back-end software development**
 
-- 📫 How to reach me **linkedin.com/in/carlabreis/**
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/carlaintech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="carlaintech" height="30" width="40" /></a>
