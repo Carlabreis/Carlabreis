@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">✨ Hi, I'm Carla Reis ✨</h1>
-<h3 align="center">A creative and detail-oriented software developer with a deep interest in AI.</h3>
+<h3 align="center">A creative and detail-oriented software engineer with a deep interest in AI.</h3>
 <br>
-<p align="left">I write code! Before that, I was a bartender working with the most inefficient POS systems. I put it upon myself to learn to code, and then I started building responsive and accessible web applications. I love solving problems and even more finding answers. I am deeply interested in AI and machine learning, augmented reality, and inclusion.
-When I'm not working, you can find me solving CodeWars, taking walks on the beach, crocheting, macrameing, or painting.</p>
+<p align="left">I am a Full-Stack Developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with React, Node, Express, and MongoDB.
+I am deeply interested in AI, machine learning, augmented reality, and inclusion. Accessibility and responsiveness are my priority when creating and implementing web applications.
+When I'm not working, you can find me taking walks on the beach, crocheting, or painting.</p>
 
 - 🔭 I’m currently working on my **100 hours project** and a **client's website**
 
